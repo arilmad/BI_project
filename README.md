@@ -24,4 +24,6 @@ __scripts__:
  * `apriori_miner` exploits the apriori algorithm in search for valuable association rules.
  
 ### Please note that this code has been developed for prototyping purposes, and is not necessarily user friendly.
+<p align="center">
 <img src="https://github.com/arilmad/BI_project/blob/master/figures/backend.jpg?raw=true" width="500">
+ </p>
