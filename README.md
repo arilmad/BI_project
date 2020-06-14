@@ -4,7 +4,7 @@ Individual project in Business Intelligence and Analyzing Big Data at HEC UNIL 2
 __Key repository files to gain a quick overview__:
 
 __`pdf` files__:
- * `Business_Intelligence_Presentation.pdf` is a very descriptive set of slides which aim to catch the essence of the project. Speed-read it and decide if you want to proceed to``Business_Intelligence_Project.pdf`. 
+ * `Business_Intelligence_Presentation.pdf` is a very descriptive set of slides which aim to catch the essence of the project. Speed-read it and decide if you want to proceed to `Business_Intelligence_Project.pdf`. 
  * `Business_Intelligence_Project.pdf` presents the project problem, motivation, approaches, findings and figures over 16 pages.
 
 __folders__:
